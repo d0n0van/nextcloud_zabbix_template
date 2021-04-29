@@ -10,7 +10,7 @@ Usage
  
  *{$NCPW} => secure macro with zabbix very strong password
  
- *{$NCSN} => nextcloud service name, example nextcloud.mydomain.com
+ *{$NCSN} => nextcloud service name, example nextcloud.mydomain.com or nextcloud.mydomain.com/nextcloud
 
 
 
